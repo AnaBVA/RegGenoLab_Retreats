@@ -1,0 +1,11 @@
+name: "Regenlab Retreat"
+title: "Regulatory Genomics and Bioinformaics Laboratory" 
+navbar:
+  left:
+    - text: "Home"
+      icon: fa-home 
+      href: index.html
+    - text: "2019"
+      href: 2019.html
+    - text: "Contact"
+      href: Contact.html

@@ -1,0 +1,51 @@
+---
+title: "RegGenoLab Retreats"
+---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"Pictures/logo_text.png\" style=\"float: right;width: 250px;\"/>')
+   });
+</script>
+
+<br>  
+
+[The Regulatory Genomics and Bioinformatics Laboratory](http://liigh.unam.mx/amedina/) is focused on designing and developing bioinformatic approaches to unravel and study genomic regulatory mechanisms, with a strong emphasis on identifying genetic variants that could disrupt such mechanisms. 
+
+<br>  
+
+ `r fa("user", fill= "steelblue")` __PI:__ Alejandra Medina-Rivera
+ 
+ `r fa("globe", fill= "steelblue")` __Country:__ Mexico
+ 
+ `r fa("university", fill= "steelblue")` __University:__ UNAM
+
+ `r fa("university", fill= "steelblue")` __Department:__ LIIGH
+
+
+<br>  
+
+
+This space is to track RegGenoLab Retreats 
+
+
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+
+<center>
+ ![LIIGH](Pictures/liigh.png){width=20%}
+ ![UNAM](Pictures/UNAM.jpg){width=20%}
+</center>
+
+
