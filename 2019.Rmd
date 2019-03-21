@@ -63,9 +63,17 @@ div.red { background-color:#ffe6e6; border-radius: 5px; padding: 20px;}
 
 ##### `r fa("briefcase", fill= "steelblue")` Modeling the regulatory network controlling dendritic cell differentiation from human monocytes
 
-<br>
 
 Ph.D. student in Biomedical science 
+
+<br>
+
+- Dendritic cells (DCs) derived from monocytes differentiation
+
+- Logical model based on literature, verification with transcriptional data and improve the model with new experiments 
+
+- CSF-2 and IL-4 pathway mapping is important in DC differentiation 
+
 
 <img src="Pictures/Karen_N.jpeg" style="width:3in" align="right">
 
@@ -85,9 +93,21 @@ Ph.D. student in Biomedical science
 
 ##### `r fa("briefcase", fill= "steelblue")` Modelling the regulatory network controlling dendritic cell differentiation from human monocytes
 
-<br>
+
 
 Undergrad student (internship)  
+
+<br>
+
+- Experimental test of DCs model
+
+- Monocyte isolation from human blood
+
+- Inhibite important TF from the model 
+
+- RT-PCR from important nodes from the model 
+
+
 
 <img src="Pictures/AnaV.jpg" style="width:3in" align="right">
 
@@ -106,13 +126,22 @@ Undergrad student (internship)
 <div class="col2">
 
 
-##### `r fa("briefcase", fill= "steelblue")` ?
+##### `r fa("briefcase", fill= "steelblue")` Characterizing ePromoters 
+
+
+
+Undergraduate student in Genomic Sciences Program
 
 <br>
 
-?
+- ePromoters: some promoters have enhancing activity
 
-<img src="Pictures/Ale_Medina.png" style="width:3in" align="right">
+- Identification of epromoters using capstartSeq
+
+- Effect of variants disrupting the binding site
+
+
+<img src="Pictures/Lu.jpeg" style="width:3in" align="right">
 </div>
 
 <br>
@@ -190,11 +219,11 @@ div.green { background-color:#e6ffe6; border-radius: 5px; padding: 20px;}
 <div class="col2">
 
 
-##### `r fa("briefcase", fill= "steelblue")` Modeling the regulatory network controlling dendritic cell differentiation from human monocytes
+##### `r fa("briefcase", fill= "steelblue")` ?
 
 <br>
 
-Ph.D. student in Biomedical science 
+Undergraduate student in Genomic Sciences Program
 
 <img src="Pictures/Ale_Medina.png" style="width:3in" align="right">
 </div>
@@ -213,13 +242,13 @@ Ph.D. student in Biomedical science
 <div class="col2">
 
 
-##### `r fa("briefcase", fill= "steelblue")` ?
+##### `r fa("briefcase", fill= "steelblue")` Tool development to identification of conserved regulatory regions
 
 <br>
 
-? 
+Undergraduate student in Genomic Sciences Program
 
-<img src="Pictures/Ale_Medina.png" style="width:3in" align="right">
+<img src="Pictures/Cristian.jpeg" style="width:3in" align="right">
 </div>
 
 <br>
