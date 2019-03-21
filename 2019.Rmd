@@ -136,10 +136,11 @@ Undergraduate student in Genomic Sciences Program
 
 - ePromoters: some promoters have enhancing activity
 
-- Identification of epromoters using capstartSeq
+- Identification of epromoters using [CapStarr-seq](https://www.nature.com/articles/ncomms7905)
 
 - Effect of variants disrupting the binding site
 
+- 
 
 <img src="Pictures/Lu.jpeg" style="width:3in" align="right">
 </div>
@@ -159,9 +160,16 @@ Undergraduate student in Genomic Sciences Program
 
 ##### `r fa("briefcase", fill= "steelblue")` Transcriptional Factors associated with epigenome regulatory regions from neonates and adults CD8+ T cells
 
-<br>
 
 Ph.D. student in Sciences 
+
+<br>
+
+- [Neonatal CD8+ T-cell differentiation is dependent on interleukin-12](https://www.sciencedirect.com/science/article/pii/S0198885910004970)
+
+- [CD8+ T Cells from Human Neonates Are Biased toward an Innate Immune Response](https://www.sciencedirect.com/science/article/pii/S2211124716314760)
+
+- 
 
 <img src="Pictures/Dare.jpeg" style="width:3in" align="right">
 </div>
@@ -465,6 +473,46 @@ End | 4:50 pm | 5:00 pm
 
 <br>
 <br>
+
+---
+
+## Real Schedual  
+
+<br>
+
+<style>
+div.yellow { background-color:#e5e5e5; border-radius: 5px; padding: 20px;}
+</style>
+
+<div class = "yellow">
+
+
+Session | Start | End
+------------- | ------------- | -------------
+Genomic Regulation | 12:15 pm | 1:40 pm 
+
+
+</div>
+
+<br>
+<br>
+
+---
+
+
+
+<br>
+
+## Interesting points
+
+- 
+
+- Jicama 
+
+<img src="Pictures/jicama.jpg" style="width:3in" >
+
+<br>
+
 
 ---
 
