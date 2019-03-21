@@ -68,6 +68,8 @@ Ph.D. student in Biomedical science
 
 <br>
 
+[Slides](Slides/Karen_marzo2019.pdf)
+
 - Dendritic cells (DCs) derived from monocytes differentiation
 
 - Logical model based on literature, verification with transcriptional data and improve the model with new experiments 
@@ -134,13 +136,15 @@ Undergraduate student in Genomic Sciences Program
 
 <br>
 
+[Slides](Lucia.pdf)
+
 - ePromoters: some promoters have enhancing activity
 
 - Identification of epromoters using [CapStarr-seq](https://www.nature.com/articles/ncomms7905)
 
 - Effect of variants disrupting the binding site
 
-- 
+
 
 <img src="Pictures/Lu.jpeg" style="width:3in" align="right">
 </div>
@@ -165,11 +169,15 @@ Ph.D. student in Sciences
 
 <br>
 
+[Slides](Slides/Dare.pdf)
+
 - [Neonatal CD8+ T-cell differentiation is dependent on interleukin-12](https://www.sciencedirect.com/science/article/pii/S0198885910004970)
 
 - [CD8+ T Cells from Human Neonates Are Biased toward an Innate Immune Response](https://www.sciencedirect.com/science/article/pii/S2211124716314760)
 
-- 
+- Transcriptome of UNSTIMULATED and CD3/CD28/IL-12 stimulated cells from neonates and adults.
+
+
 
 <img src="Pictures/Dare.jpeg" style="width:3in" align="right">
 </div>
@@ -342,6 +350,8 @@ Ph.D. student in Biomedical science
 
 Medical Doctor student
 
+[Slides](Slides/EPOC.pdf)
+
 <img src="Pictures/Ale_Medina.png" style="width:3in" align="right">
 </div>
 
@@ -504,8 +514,6 @@ Genomic Regulation | 12:15 pm | 1:40 pm
 <br>
 
 ## Interesting points
-
-- 
 
 - Jicama 
 
