@@ -1,6 +1,6 @@
 name: "Regenlab Retreat"
-title: "Regulatory Genomics and Bioinformaics Laboratory" 
 navbar:
+  title: "Regulatory Genomics and Bioinformaics Laboratory"
   left:
     - text: "Home"
       icon: fa-home 
